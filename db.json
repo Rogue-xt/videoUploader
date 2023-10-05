@@ -1,0 +1,83 @@
+{
+  "addvideo": [
+    {
+      "id": 1,
+      "caption": "After Hours",
+      "thumbnail": "https://i.postimg.cc/xCP5Shkq/desktop-wallpaper-after-hours-the-weeknd-has-dropped-his-newest-album-just-in-time.jpg",
+      "url": "https://www.youtube.com/embed/ygTZZpVkmKg"
+    },
+    {
+      "id": 5,
+      "caption": "Naa Ready",
+      "thumbnail": "https://i.postimg.cc/634LQRKP/Naa-Ready-From-Leo-Tamil-2023-20230622174435-500x500.jpg",
+      "url": "https://www.youtube.com/embed/szvt1vD0Uug"
+    },
+    {
+      "id": 4,
+      "caption": "Hukum",
+      "thumbnail": "https://i.postimg.cc/brCs9GJQ/hukum.jpg",
+      "url": "https://www.youtube.com/embed/gB2zKZxESTg"
+    },
+    {
+      "id": 3,
+      "caption": "Rap God",
+      "thumbnail": "https://i.postimg.cc/YCqfK6TR/rapgod.jpg",
+      "url": "https://www.youtube.com/embed/XbGs_qK2PQA"
+    }
+  ],
+  "addCategory": [
+    {
+      "id": 6,
+      "categoryName": "Melody",
+      "allvideos": []
+    },
+    {
+      "categoryName": "Tamil",
+      "allvideos": [
+        {
+          "id": 5,
+          "caption": "Naa Ready",
+          "thumbnail": "https://i.postimg.cc/634LQRKP/Naa-Ready-From-Leo-Tamil-2023-20230622174435-500x500.jpg",
+          "url": "https://www.youtube.com/embed/szvt1vD0Uug"
+        },
+        {
+          "id": 4,
+          "caption": "Hukum",
+          "thumbnail": "https://i.postimg.cc/brCs9GJQ/hukum.jpg",
+          "url": "https://www.youtube.com/embed/gB2zKZxESTg"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "categoryName": "Hip Hop",
+      "allvideos": [],
+      "id": 8
+    },
+    {
+      "categoryName": "Romantic Hits",
+      "allvideos": [],
+      "id": 9
+    }
+  ],
+  "history": [
+    {
+      "id": 1,
+      "cardName": "After Hours",
+      "url": "https://www.youtube.com/embed/gB2zKZxESTg",
+      "date": ""
+    },
+    {
+      "id": "ln9zug0t",
+      "cardName": "Naa Ready",
+      "url": "https://www.youtube.com/embed/szvt1vD0Uug",
+      "date": "October 276th 2023,12:54:02 PM"
+    },
+    {
+      "id": "lncr2xs9",
+      "cardName": "After Hours",
+      "url": "https://www.youtube.com/embed/ygTZZpVkmKg",
+      "date": "October 278th 2023,11:12:00 AM"
+    }
+  ]
+}
